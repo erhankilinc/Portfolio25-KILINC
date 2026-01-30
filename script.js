@@ -414,7 +414,7 @@ window.addEventListener('unhandledrejection', function(e) {
 
 // ===== FONCTIONS GLOBALES POUR COMPATIBILITÉ =====
 
-// Rendre les fonctions disponibles globalement
+// Rendre les fonctions disponibles globalemen
 window.openModal = openModal;
 window.closeModal = closeModal;
 window.openFullscreenImage = openFullscreenImage;
